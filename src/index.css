@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Mooli&family=Poppins:wght@300&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto&family=Young+Serif&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Croissant+One&family=Mooli&family=Poppins:wght@300&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto&family=Young+Serif&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  html{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+   
+}
+span{
+  display: inline-block;
+}
