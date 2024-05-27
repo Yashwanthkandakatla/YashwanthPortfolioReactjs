@@ -19,12 +19,7 @@ function Home() {
             })}
             </h2>
           <p className='text-gray-500 py-4 max-w-md'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus,
-            quo. Tempore vitae, commodi possimus eos ea, doloribus eum magnam
-            dicta magni, nostrum quidem est adipisci voluptas eaque incidunt
-            voluptatum reprehenderit ex odio cumque aut veritatis aspernatur
-            animi fugit? Sunt, aliquid. Soluta consectetur similique eligendi,
-            dolorum impedit deleniti distinctio voluptate consequatur.
+            I am a Student pursuing Computer Science Engineering with specialization in Artificial Intelligence and Machine Learnig, An AI Enthusiast.
           </p>
           <div>
             <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 rounded-md items-center px-6 py-3 my-2 flex bg-gradient-to-r from-gray-500 to-black-500'>
